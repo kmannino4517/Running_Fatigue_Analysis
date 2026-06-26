@@ -1,9 +1,9 @@
-date,distance_miles,avg_pace_min_per_mile,avg_hr,cadence,rpe,shoe,temperature_f,uv,notes
-06/15/2026,2.23,8.75,146,160,2,vomero,73,3,first day in mn
-06/16/2026,2.56,9.00,132,156,2,mizunos,65,0,rainy as heck
-06/18/2026,3.18,8.00,135,157,4,vomero,76,4,felt smooth
-06/19/2026,3.64,7.75,165,157,6,mizunos,82,6,after a day of travel
-06/22/2026,4.01,8.13,144,160,4,vomero,81,7,felt solid
-06/23/2026,1.99,7.00,125,162,8,mizunos,72,2,wet and failed attempt at workout
-06/24/2026,5.90,8.33,151,158,4,vomero,77,7,nice and ez
-06/26/2026,6.28,8.33,139,160,6,vomero,81,9,lr tempo workout thing
+date,distance_miles,avg_pace_min_per_mile,avg_hr,cadence,rpe,shoe,temperature_f,uv,notes,run_type,rhr,sleep_hours,first_hr,second_hr,first_pace,second_pace
+06/15/2026,2.23,8.75,146,160,2,vomero,73,3,first day in mn,easy,57,7.50,145,149,8.66,8.75
+06/16/2026,2.56,9.00,132,156,2,mizunos,65,0,rainy as heck,easy,59,9.08,120,149,9.20,8.80
+06/18/2026,3.18,8.00,135,157,4,vomero,76,4,felt smooth,easy,61,9.16,142,130,7.85,8.15
+06/19/2026,3.64,7.75,165,157,6,mizunos,82,6,after a day of travel,easy,54,0.00,150,190,7.50,8.20
+06/22/2026,4.01,8.13,144,160,4,vomero,81,7,felt solid,easy,55,9.50,135,150,8.20,8.00
+06/23/2026,1.99,7.00,125,162,8,mizunos,72,2,wet and failed attempt at workout,workout,53,9.25,120,137,8.55,7.00
+06/24/2026,5.90,8.33,151,158,4,vomero,77,7,nice and ez,easy,52,8.50,140,150,8.50,8.20
+06/26/2026,6.28,8.33,139,160,6,vomero,81,9,lr tempo workout thing,workout,52,9.50,140,145,8.66,7.50
