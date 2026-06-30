@@ -1,14 +1,14 @@
 """
 src/load_data.py
 Loads raw run data and computes derived fatigue/efficiency metrics.
-Add new runs to data/runs_raw.csv — this script handles the rest.
+Add new runs to data/runs/raw.csv — this script handles the rest.
 """
  
 import pandas as pd
 import numpy as np
  
  
-def load_runs(path="data/runs_raw.csv") -> pd.DataFrame:
+def load_runs(path="data/runs/raw.csv") -> pd.DataFrame:
     df = pd.read_csv(path, parse_dates=["date"])
     df = df.sort_values("date").reset_index(drop=True)
  
